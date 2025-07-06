@@ -1,0 +1,38 @@
+*{padding: 0;
+margin: 0;
+text-align: center;}
+
+#titulo{margin-bottom: 23px;
+padding:30px ;
+color: aliceblue;
+background-color: rgb(44,44,44)}
+
+body{background-color:rgb(224, 224, 218);}
+
+.tarjeta {
+background-color: white;
+margin: 0 auto;
+margin-bottom: 20px;
+border-radius: 10px;
+max-width: 200px;
+text-align: center;
+border: 1px black solid;
+box-shadow: 3px 3px 15px gray;}
+
+img{width: 200px;}
+
+section ul{
+    list-style: none;
+}
+
+#pie{
+color: aliceblue;
+background-color: rgb(44, 44, 44);
+padding: 15px;
+}
+
+
+a :link{color: aqua;}
+a :visited{color: blueviolet;}
+a :hover{color: aquamarine;}
+a :active{color: chartreuse;}
